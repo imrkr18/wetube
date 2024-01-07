@@ -1,0 +1,20 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "a backend for wetube - video application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "mern"
+  ],
+  "author": "Kuldipsinh Gohil",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.2.0",
+    "npm": "^10.2.5"
+  }
+}
