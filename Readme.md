@@ -1,1 +1,1 @@
-# wetube is video plateform similar to youtube and this the backend repository 
+# This is a backend repository of a project where can create their account and upload or view online videos  
